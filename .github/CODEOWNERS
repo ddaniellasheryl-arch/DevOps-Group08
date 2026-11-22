@@ -1,0 +1,11 @@
+# Default reviewer for everything
+*            @ddaniellasheryl-arch
+
+# Backend
+/backend/    @landryduplex0-debug @Kongnyuy-Clavier
+
+# Frontend
+/frontend/   @Sheva-1 @ddaniellasheryl-arch
+
+# CI/CD and repo config
+/.github/    @landryduplex0-debug @ddaniellasheryl-arch
